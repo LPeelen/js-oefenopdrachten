@@ -18,7 +18,7 @@ function sortArray() {
 }
 
 // Opdracht 3
-// Maak een array met deze getallen op volgorde: 8.4, 7.3, 5.6, 6.3 4.7
+// Maak een array met deze getallen op volgorde: 8.4, 7.3, 5.6, 6.3, 4.7
 // Laat het gemiddelde van deze cijfers zien in de console
 function average() {
   // Schrijf hier je code

@@ -4,10 +4,10 @@
 // Succes!
 
 // Als we alle getallen pakken die onder de 10 zijn
-// EN door 3 en 5 gedeeld kunnen worden krijgen we:
+// EN door 3 of 5 gedeeld kunnen worden krijgen we:
 // 3, 5, 6 en 9
 // Vind alle getallen die onder de 1000 zijn EN
-// deelbaar zijn door 3 en 5. Tel deze dan bij elkaar op.
+// deelbaar zijn door 3 of 5. Tel deze dan bij elkaar op.
 // Laat het antwoord in de console zien
 function multipleOfThreeAndFive() {
   // Schrijf hier je code
